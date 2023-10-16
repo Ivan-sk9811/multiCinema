@@ -2,8 +2,11 @@
 // colors
 :root {
   // base
-  --font-family: "Open Sans", sans-serif;
-  --content-width: 1170px;
+  --font-family: "Gilroy", sans-serif;
+  --second-family: "Gilroy Medium", sans-serif;
+  --third-family: "Gilroy SemiBold", sans-serif;
+  --font3: "Gilroy Bold", sans-serif;
+  --content-width: 1690px;
   --container-offset: 15px;
   --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
 
